@@ -11,7 +11,7 @@ While this is probably "yet another" library for Discord's webhook system, I wan
 You can either copy the PHP file directly into your project or _preferable_ just use composer.
 
 #### Composer require command
-`composer require nopjmp/discord-webhooks`
+`composer require virgiliopontes/discord-webhooks`
 
 ## Usage
 

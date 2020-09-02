@@ -1,17 +1,25 @@
 {
-    "name": "nopjmp/discord-webhooks",
+    "name": "virgiliopontes/discord-webhooks",
     "description": "A simple Discord webhook client library.",
     "type": "library",
     "license": "MIT",
+    "keywords": ["discord","webhook","bot","client"],
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Kayla Thompson",
-            "email": "jmp@const.ninja"
+            "email": "jmp@const.ninja",
+            "homepage": "https://github.com/nopjmp"
+        },
+        {
+            "name": "Virgilio Pontes",
+            "email": "virgiliocpontes@outlook.com",
+            "homepage": "https://github.com/virgiliopontes"
         }
     ],
     "require": {
         "ext-curl": "*",
-        "php": ">=5.4"
+        "php": ">=7.0"
     },
     "autoload": {
         "psr-4": {
